@@ -24,9 +24,9 @@ The goal of these notes is to go beyond the standard course explanations, provid
 
 ## 📅 Future Plans  
 
-While this repository currently contains only the theory notes, I plan to gradually add **practical exercises and code examples** whenever I have some free time. These additions will complement the theory and allow you to practice implementing concepts in Python and popular Deep Learning frameworks.
+While this repository currently contains only the theory notes, I plan to gradually add **code examples** whenever I have some free time. These additions will complement the theory and allow you to practice implementing concepts in Python and popular Deep Learning frameworks.
 
 
-## 🌟 Contribute or Share  
+## 🌟 Contribute or Share
 
 If you find this repository useful, feel free to give it a ⭐ or share it with others! Suggestions, corrections or contributions are always welcome.
